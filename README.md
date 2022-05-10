@@ -2,7 +2,7 @@
 
 ## Workshop 
 
-(Workshop 1)[Workshop_1.md]
+[Workshop 1](Workshop_1.md)
 
 ## Talk
 
