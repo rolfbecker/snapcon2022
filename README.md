@@ -10,5 +10,5 @@
 
 ## Lightning Talk
 
-[Lightning_Talk 1](Lightning_Talk_1.md)
+[Lightning Talk 1](Lightning_Talk_1.md)
 
