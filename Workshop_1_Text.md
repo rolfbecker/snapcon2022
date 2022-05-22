@@ -4,9 +4,10 @@
 
 ## Template
 
-- **Other Helpers for Participants during the Activity:** Names and affiliations of any presenters other than the proposer. All presenters must register for Snap_!_Con and be present for the workshop session, so be certain that you have their commitments before listing them.
+- **Other Helpers for Participants during the Activity:** <br> Harley Lara, Ali Farzizada, Ilgar Rasulov
 
-- **Significance and Relevance of the Topic:** Describe (preferably cite evidence) the significance, timeliness, and relevance of the topic.
+- **Significance and Relevance of the Topic:** 
+
 
 - **Rough Agenda for the Workshop:** Explain how you will budget the time, including time for attendee interaction. There must be at most 15 minutes of 'front of the room' presentation, with at least 30 minutes of hands-on activities and at least 10 minutes at the end for discussion. The agenda should include details on how participants will be supported in the virtual mode.
 
