@@ -1,4 +1,4 @@
-# Workshop 1:<br>Object Detection with Snap! and DetectNet on NVIDIA Jetson Nano
+# Workshop 1:<br>Object Detection in Snap! with DetectNet on NVIDIA Jetson Nano
 
 
 
