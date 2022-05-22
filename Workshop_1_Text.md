@@ -15,9 +15,11 @@ Snap! is used to take snapshots (still images) from the local user PC webcam. Th
 
 ## Rough Agenda for the Workshop
 
+In this practial workshop we learn how to use convolutional neural network (CNN) based object detectors in SNAP! The reported object information can then be used for control in SNAP! programs such as games. 
+
 The workshop is provided in a mixed format: on-site as well as remote! 
 
-In this practial workshop we learn how to use convolutional neural network (CNN) based object detectors in SNAP! The object detector software DetectNet is running on NVIDIA Jetson Nano computers, which we will provide in a Virtual Private Network (VPN). The credentials to access the network will be shared to the registered participants.
+The object detector software DetectNet is running on NVIDIA Jetson Nano computers, which we will provide in a Virtual Private Network (VPN). The credentials to access the network will be shared to the registered participants.
 
 Since the number of Jetsons is limited to 10 we have to limit the number of participants: Each Jetson cann serve only one user PC/laptop which limits the number of connected user computers to 10. We suggest to work in groups of 2 with one computer such that 20 persons can participate. 
 
