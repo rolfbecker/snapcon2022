@@ -22,7 +22,7 @@ For an interactive and interesting conference, we’d love to see more (live) de
 
 If you propose a workshop, we’ll require a detailed agenda showing how you’re going to engage the audience to participate. We can’t wait to see what you’re doing!
 
-## Introduction
+## Introduction to EOLab Activities
 
 The Earth Observation Lab [(EOLab)](https://wiki.eolab.de/) team at Rhine-Waal University of Applied Sciences [(HSRW)](http://www.hsrw.eu) is working on computer vision and object recognition for applications in environmental monitoring and conservation. In addition, the EOLab team is also involved in the field of STEM education (K12) by creating open teaching materials and conducting workshops with schools for this purpose.  
 
