@@ -2,6 +2,26 @@
 
 We use this repo to develop our proposals for the conference: https://www.snapcon.org/conferences/2022/program/proposals/new
 
+## Call for Proposals
+We invite participation by current or potential Snap! users, teachers, researchers or developers. Topics:
+
+* Teaching and learning computer science
+* Teaching and learning mathematics
+* Teaching and learning, period
+* Extensions to Snap!
+* Attracting independent learners 
+
+For an interactive and interesting conference, we’d love to see more (live) demos and (short) discussions, and fewer slides. We welcome several modes of participation:
+
+* Open-our-eyes Lightning talks (5 min)
+* Show us your project (3-5 min)
+* Impactful Talks (15 min)
+* Powerful Panels (60 min)
+* Community-gathering Birds-of-a-Feather sessions (30 min)
+* Interactive Workshops (60 min)
+
+If you propose a workshop, we’ll require a detailed agenda showing how you’re going to engage the audience to participate. We can’t wait to see what you’re doing!
+
 ## Introduction
 
 The Earth Observation Lab [(EOLab)](https://wiki.eolab.de/) team at Rhine-Waal University of Applied Sciences [(HSRW)](http://www.hsrw.eu) is working on computer vision and object recognition for applications in environmental monitoring and conservation. In addition, the EOLab team is also involved in the field of STEM education (K12) by creating open teaching materials and conducting workshops with schools for this purpose.  
