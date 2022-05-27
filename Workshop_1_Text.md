@@ -39,15 +39,16 @@ Technically interested teachers, trainers and other people who want to experienc
 
 * All participants need SNAP! on their computer.
 * All participants need a webcam accessible from SNAP!
-* On-site participants will need laptops with wifi to connect to the local private network we set up.
+* On-site participants will need laptops with WiFi to connect to the local private network we set up.
 * Remote participants will need to install OpenVPN client software to connect to our private network.
 
 ## Other Critical Information
 
 **To the organizers on-site:**
 - We bring 10 preinstalled NVIDIA Jetson Nano computers equipped with wifi interfaces to the workshop location. 
-- We also bring a VPN enabled wifi router which provides its own local private wifi network, aka "workshop network". This wifi router is a VPN client to our external VPN server. The NVIDIA Jetson computers as well as the local participants' computers will connect to the workshop network through wifi. 
+- We also bring a VPN enabled WiFi router which provides its own local private WiFi network, aka "workshop network". This WiFI router itself is a VPN client to our external VPN server. The NVIDIA Jetson computers as well as the local participants' computers will connect to the workshop network through WiFi. 
 - Remote users have to install OpenVPN and connect to the VPN server in order to join the workshop network. The workshop router handles the traffic between user computers (local or remote) running SNAP! and the NVIDIA Jetson Nano computers running DetectNet. 
 - It is a **strict requirement** that our **workshop router** gets an **internet connection** (via wifi or ethernet) on the workshop location by the local organizers.
-- We have to establish a procedure for workshop registration to limit the number of participants.
+- We have to establish a procedure for workshop registration to limit the number of participants (because of limited hardware resources)
 
+l
