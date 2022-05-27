@@ -50,5 +50,3 @@ Technically interested teachers, trainers and other people who want to experienc
 - Remote users have to install OpenVPN and connect to the VPN server in order to join the workshop network. The workshop router handles the traffic between user computers (local or remote) running SNAP! and the NVIDIA Jetson Nano computers running DetectNet. 
 - It is a **strict requirement** that our **workshop router** gets an **internet connection** (via wifi or ethernet) on the workshop location by the local organizers.
 - We have to establish a procedure for workshop registration to limit the number of participants (because of limited hardware resources)
-
-l
