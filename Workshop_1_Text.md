@@ -1,7 +1,7 @@
 # Workshop 1:<br>Object Detection in Snap! with DetectNet on NVIDIA Jetson Nano
 
 ## Other Helpers for Participants during the Activity
-Harley Lara, Ali Farzizada, Ilgar Rasulov
+Rolf Becker, Harley Lara, Ali Farzizada, Ilgar Rasulov (all from HSRW)
 
 ## Significance and Relevance of the Topic
 
