@@ -21,7 +21,7 @@ The workshop is provided in a mixed format: on-site as well as remote!
 
 The object detector software DetectNet is running on NVIDIA Jetson Nano computers, which we will provide in a Virtual Private Network (VPN). The credentials to access the network will be shared to the registered participants.
 
-Since the number of Jetsons is limited to 10 we have to limit the number of participants: Each Jetson cann serve only one user PC/laptop which limits the number of connected user computers to 10. We suggest to work in groups of 2 with one computer such that 20 persons can participate. 
+Each NVIDIA Jetson Nano computer can currently serve only one user PC/laptop. Therefore, **we need to limit the number of connected user computers to 10**. We suggest working in groups of 2 with one computer so that 20 people can participate. 
 
 
 ** Explain how you will budget the time, including time for attendee interaction. There must be at most 15 minutes of 'front of the room' presentation, with at least 30 minutes of hands-on activities and at least 10 minutes at the end for discussion. The agenda should include details on how participants will be supported in the virtual mode.
