@@ -23,18 +23,26 @@ The object detector software DetectNet is running on NVIDIA Jetson Nano computer
 
 Each NVIDIA Jetson Nano computer can currently serve only one user PC/laptop. Therefore, **we need to limit the number of connected user computers to 10**. We suggest working in groups of 2 with one computer so that 20 people can participate. 
 
+### Schedule / Preparation
 
-** Explain how you will budget the time, including time for attendee interaction. There must be at most 15 minutes of 'front of the room' presentation, with at least 30 minutes of hands-on activities and at least 10 minutes at the end for discussion. The agenda should include details on how participants will be supported in the virtual mode.
+* Introductory presentation and system setup (15 minutes)
+* Interactive workshop (30 minutes)
+* Discussion / reflection (15 minutes)
 
+The workshop will be held on-site in Heidelberg. We will set up a virtual private network (VPN) such that people can connect remotely. Since our computing rescources are limited interested participants must register for the workshop. The credentials for the VPN will be shared after successful registration.
 
+## Expected Audience
 
-- **Expected Audience:** State the target audience (e.g., high school teachers, those who teach CS1, research proposal authors, etc). Also, estimate the number of likely participants.
+Technically interested teachers, trainers and other people who want to experience and assess the use of AI for computer vision in SNAP! Users without a deep tech background are welcome but our draft training material is still beta and nerdy. Patience is required :-)
 
-- **Participant Equipment Requirements:** What are the needs to fully participate in the workshop?
-    - _Equipment Required._ Participants must have equipment during the workshop in order to achieve the learning outcomes.
-    - _Equipment Recommended._ Participants are more likely to fully achieve the learning outcomes if they have equipment during the workshop.
-    - _Equipment Optional._ Participants may learn more about the topic if they have equipment during the workshop, but having it is not required to achieve the learning outcomes.
-    - _Equipment Not Required._ Having equipment during this workshop is not likely to help participants learn more about the topic.
-    - The kind of equipment (hardware and software) participants need (if appropriate).
+## Participant Equipment Requirements
 
-- **Other Critical Information**: Include any other notes that will facilitate assessment of the Workshop proposal.
+* All participants need SNAP! on their computer.
+* All participants need a webcam accessible from SNAP!
+* On-site participants will need laptops with wifi to connect to the local private network we set up.
+* Remote participants will need to install OpenVPN client software to connect to our private network.
+
+## Other Critical Information
+
+**To the organizers on-site:** We bring 10 presinstalled NVIDIA Jetson Nano computers equipped with wifi interfaces to the workshop location. We also bring a VPN enabled wifi router which provides its own local private wifi network, aka "workshop network". This wifi router is a VPN client to our external VPN server. The NVIDIA Jetson computers as well as the local participants' computers will connect to the workshop network. Remote users have to install OpenVPN and connect to the VPN server in order to join the workshop network. The workshop router handles the traffik between the local or remote user computers running SNAP! and the NVIDIA Jetson Nano computers running DetectNet. It is a **strict requirement** that our **workshop router** gets an **internet connection** (via wifi or ethernet) on the workshop location by the local organizers.
+
